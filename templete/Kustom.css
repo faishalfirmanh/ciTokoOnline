@@ -1,0 +1,55 @@
+.pos{
+    width: 70%;
+    margin-left: 350px;
+    margin-top: -395px;
+    }
+    .posForm{
+    margin-left: 350px;
+    margin-top: 100px;
+    }
+    .widthInput{
+    width: 70%;
+    }
+    .warnaBtn{
+    background-color: 'rgb(252,71,245)';
+    }
+    /* .kard{
+    background-color: rgb(225,247,210);
+    width: 70%;
+    height: 800px;
+    } */
+    .atas{
+    margin-top: 10px;
+    }
+
+    div.krrrd{
+    background-color: rgb(225,247,210);
+    width: 50%;
+    height: 500px;
+    margin-left: 350px;
+    border-radius: 10px;
+
+    }
+    .container{
+      background-color: rgb(222,187,162);
+      display: flex;
+      flex-wrap: wrap;
+      margin-top: 100px;
+      margin-left: 10px;
+    }
+    .container .cardnya{
+      border: solid 8px red;
+      border-radius: 8px;
+      background-color: rgb(112,246,125);
+      margin: 10px;
+      align-items: center;
+      width: 100px;
+      height: 200px;
+      width:auto;
+      flex: 1;
+    }
+
+    .btnDetail{
+      margin-left:10px;
+      margin-top: 10px;
+    }

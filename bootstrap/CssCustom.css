@@ -1,0 +1,31 @@
+.pos{
+  width: 70%;
+  margin-left: 350px;
+  margin-top: -395px;
+}
+.posForm{
+  margin-left: 350px;
+}
+.widthInput{
+  width: 70%;
+}
+.warnaBtn{
+  background-color: 'rgb(252,71,245)';
+}
+/* .kard{
+  background-color: rgb(225,247,210);
+  width: 70%;
+  height: 800px;
+} */
+.atas{
+  margin-top: 10px;
+}
+
+  div.krrrd{
+  background-color: rgb(225,247,210);
+  width: 70%;
+  height: 500px;
+  margin-left: 350px;
+  border-radius: 10px;
+
+}
