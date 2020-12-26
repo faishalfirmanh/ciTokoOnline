@@ -1,5 +1,5 @@
 ###################
-What is CodeIgniter
+Framework CodeIgniter
 ###################
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
@@ -38,7 +38,9 @@ issues, as well as missing features.
 ************
 Installation
 ************
-
+1.download extraxkt
+2.home localhost/tes
+3.login / register.
 Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
 of the CodeIgniter User Guide.
 
