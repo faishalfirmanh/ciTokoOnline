@@ -38,11 +38,13 @@ issues, as well as missing features.
 ************
 Installation
 ************
--download extraxkt
--home localhost/tes
--login / register.
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
+- `download , extratxt file`_
+- `import db soallogin`_
+- `masuk ke home, localhost/tes`_
+- `pilih header, login/register`_
+- `kurang fitur edit`_
+-l
+
 
 *******
 License
